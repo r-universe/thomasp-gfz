@@ -5,4 +5,3 @@
 [submodule "WaterBalanceR"]
 	path = WaterBalanceR
 	url = https://github.com/thomasp-gfz/waterbalancer_joss
-	subdir = WaterBalanceR
