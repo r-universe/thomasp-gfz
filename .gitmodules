@@ -4,4 +4,5 @@
 	branch = HEAD
 [submodule "WaterBalanceR"]
 	path = WaterBalanceR
-	url = https://github.com/thomasp-gfz/waterbalancer_joss
+	url = https://github.com/thomasp-gfz/waterbalancer
+	subdir = WaterBalanceR
